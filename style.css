@@ -4,6 +4,10 @@ body {
   max-width: 900px;
   line-height: 1.6;
   color: #ff8ae0;   /* 🌸 all text is now pink */
+  background-image: url("backgroundpink.jpg"); /* replace with your image path */
+  background-size: cover;   /* make it cover the whole page */
+  background-position: center;
+  background-attachment: fixed; /* stays still when scrolling */
 }
 
 header h1 {
