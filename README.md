@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently a candidate of MSc Connected Environments Student @ UCL. I hold a  Master degree of Landscape Architecture STEM @ RISD and a Bachelor of Agronomy @ Shanghai Jiao Tong University. I am interested in AI, IoT, Data Science and Data-aided Parametric Design.
+I am currently a candidate of MSc Connected Environments Student @ UCL. I hold a  Master degree of Landscape Architecture STEM @ RISD and a Bachelor of Agronomy @ Shanghai Jiao Tong University. I am interested in AI, IoT, Data Science and Data-aided Parametric Design. 
+
+Personal Website: https://jrongw.github.io
 
 
 ## 🌐 Socials:
